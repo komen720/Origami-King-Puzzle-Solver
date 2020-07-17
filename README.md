@@ -10,7 +10,7 @@ To solve the battle puzzles in Paper Mario: Origami King because the author is a
 It's for regular small-fry battles. It can solve a 4*12 puzzle and the search depth is 3 moves.
 
 # Building & Modification
-Really easy to build, just open your `g++` and compile it.
+```g++ solver.cpp -lncurses -o solver```
 
 You can modify the code to increase search depth. But the code doesn't really include many optimization so its performance is extremely poor.
 

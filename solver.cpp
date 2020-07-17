@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <deque>
 #include <bits/stdc++.h>
-#include <conio.h>
+#include <ncurses.h>
 using namespace std;
 #define ll long long
 #define pii pair<int,int>
